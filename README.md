@@ -1,5 +1,5 @@
 # speed_fox
-plugin minify code wordpress
-1_install plugin to wordpress
-2_active plugin
-3_finish!😊😁❤️👌
+#plugin minify code wordpress
+1-install plugin to wordpress
+2-active plugin
+3-finish!😊😁❤️👌
